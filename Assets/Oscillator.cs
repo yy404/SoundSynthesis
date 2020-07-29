@@ -17,6 +17,8 @@ public class Oscillator : MonoBehaviour
 
     void Start()
     {
+        sampling_frequency = AudioSettings.outputSampleRate;
+
         frequencies = new float[8];
         frequencies[0] = 440;
         frequencies[1] = 494;
