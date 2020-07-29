@@ -52,7 +52,7 @@ public class Oscillator : MonoBehaviour
         {
             phase += increment;
 
-            // Sin Wave
+            // Sinus Wave
             data[i] = (float) (gain * Mathf.Sin((float)phase));
 
             // // Square Wave
