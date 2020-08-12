@@ -9,7 +9,7 @@ Sound synthesis for Unity.
 * Visualisation
 * Noise generator
 
-## References
+## References and Inspiration
 
 ### Tutorials
 * Article: [Procedural audio with Unity](https://www.mcvuk.com/development-news/procedural-audio-with-unity/117433/) (Done: "First Step")
